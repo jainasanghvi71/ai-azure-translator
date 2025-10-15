@@ -14,18 +14,18 @@ This repository demonstrates how to integrate Azure AI Translator into your appl
 2. Azure Key Vault
 3. Python, Jupiter Notebook
 
+**Quick Start:**
+
+1. Create an Azure Translator resource in Azure Portal.
+2. Set your API key, add it to jupiter python file.
+3. Run the file.
+
 **Examples taken in translator.ipynb file:**
 
 1. Code | Language-Name | Native Name
 2. cs | Czech | Čeština
 3. de | German | Deutsch
 4. es | Spanish | Español
-
-**Quick Start:**
-
-1. Create an Azure Translator resource in Azure Portal.
-2. Set your API key, add it to jupiter python file.
-3. Run the file.
 
 **English Input String : en**
 "Hello Alians!!"
