@@ -39,4 +39,4 @@ This repository demonstrates how to integrate Azure AI Translator into your appl
 5. Text was translated to: 'de' and the result is: 'Hallo Alians!!'.
 
 **Note**
-If transaltor-demo.ipynb is having isuue in opening in github, download it else see the code in txt file.
+If transaltor-demo.ipynb is having isuue in opening in github, download it else see the code in [translator.txt] file.
