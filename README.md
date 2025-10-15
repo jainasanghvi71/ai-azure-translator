@@ -31,8 +31,9 @@ This repository demonstrates how to integrate Azure AI Translator into your appl
 Hello Alians!!
 
 **Translated Output String : cs,es,de**
-Source input text : [{'text': 'Hello Alians!!'}]
-Detected languages of the input text: en with score: 0.95.
-Text was translated to: 'cs' and the result is: 'Ahoj Aliáni!!'.
-Text was translated to: 'es' and the result is: '¡Hola Alians!'.
-Text was translated to: 'de' and the result is: 'Hallo Alians!!'.
+
+1. Source input text : [{'text': 'Hello Alians!!'}]
+2. Detected languages of the input text: en with score: 0.95.
+3. Text was translated to: 'cs' and the result is: 'Ahoj Aliáni!!'.
+4. Text was translated to: 'es' and the result is: '¡Hola Alians!'.
+5. Text was translated to: 'de' and the result is: 'Hallo Alians!!'.
