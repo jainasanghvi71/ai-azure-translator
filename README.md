@@ -28,7 +28,7 @@ This repository demonstrates how to integrate Azure AI Translator into your appl
 3. Run the file.
 
 **English Input String : en**
-Hello Alians!!
+"Hello Alians!!"
 
 **Translated Output String : cs,es,de**
 
